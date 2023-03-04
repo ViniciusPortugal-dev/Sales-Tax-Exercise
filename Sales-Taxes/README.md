@@ -18,6 +18,7 @@ The program is written in Java and includes the following files:
 To run the program, simply compile and run the Main.java file using the following commands:
 `javac Main.java
 java Main`
+And install the maven dependencies, with the command `mvn clean install`
 
 ## Testing
 
